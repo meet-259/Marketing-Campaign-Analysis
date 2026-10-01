@@ -1,0 +1,21 @@
+campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_audience_segment,channel,status,spend
+1,New Year Sale,Seasonal,2024-01-02,2024-01-16,80000,Regular,Google Ads,Completed,70400
+2,Valentine Special,Seasonal,2024-02-05,2024-02-17,65000,Premium,Instagram,Completed,55900
+3,Spring Sale,Discount,2024-03-10,2024-03-28,70000,Budget,Facebook,Completed,57400
+4,Summer Sale,Discount,2024-05-01,2024-05-21,90000,Regular,Google Ads,Completed,81000
+5,Back to School,Seasonal,2024-06-15,2024-06-30,75000,Budget,Facebook,Completed,60750
+6,Independence Day Sale,Seasonal,2024-08-01,2024-08-15,100000,Regular,YouTube,Completed,87000
+7,Festive Offers,Seasonal,2024-09-15,2024-10-05,95000,Premium,Instagram,Completed,84550
+8,Diwali Mega Sale,Seasonal,2024-10-20,2024-11-14,160000,Regular,Google Ads,Completed,147200
+9,Black Friday,Discount,2024-11-20,2024-11-30,140000,Premium,Google Ads,Completed,127400
+10,Cyber Monday,Discount,2024-11-30,2024-12-07,90000,Regular,Facebook,Completed,76500
+11,Winter Sale,Discount,2024-12-10,2024-12-28,70000,Budget,Display Ads,Completed,55300
+12,Weekend Flash Sale,Discount,2025-01-10,2025-01-17,50000,Budget,Instagram,Completed,41500
+13,Premium Customer Offer,Loyalty,2025-02-05,2025-02-19,55000,Premium,Email,Completed,47850
+14,New Customer Campaign,Acquisition,2025-03-01,2025-03-22,110000,Regular,Google Ads,Completed,99000
+15,Loyalty Rewards,Loyalty,2025-04-10,2025-04-24,50000,VIP,Email,Completed,40000
+16,Clearance Campaign,Clearance,2025-06-01,2025-06-21,85000,Budget,Display Ads,Completed,71400
+17,Product Launch,Product Launch,2025-07-15,2025-08-05,120000,Premium,YouTube,Completed,110400
+18,Referral Campaign,Referral,2025-08-20,2025-09-09,65000,Regular,Email,Completed,53300
+19,Monsoon Sale,Seasonal,2025-09-10,2025-09-28,70000,Budget,Facebook,Completed,58100
+20,Year End Sale,Discount,2025-11-15,2025-12-15,125000,Regular,Google Ads,Completed,110000
