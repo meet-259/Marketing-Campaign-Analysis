@@ -8,6 +8,18 @@ A company runs marketing campaigns across different channels and customer segmen
 This project uses SQL to analyze campaign performance, customer interactions, conversion funnels, marketing channels, and customer segments to identify areas for improvement.
 
 
+## Dataset
+
+**Source:** Synthetic
+
+| Table | Key Columns | Description |
+|---|---|---|
+| `campaigns` | `campaign_id`, `campaign_name`, `channel`, `budget`, `spend` | One row per campaign |
+| `campaign_interactions` | `campaign_id`, `customer_id`, `interaction_type`, `converted_flag` | Customer touchpoints: Impression, Product Click, Add to Cart, Purchase |
+| `conversions` | `campaign_id`, `customer_id`, `revenue_amount` | Revenue from converted customers |
+| `customers` | `customer_id`, `customer_segment` | Customer attributes and segment |
+
+
 ## Analysis
 
 **1. Campaign Performance**
